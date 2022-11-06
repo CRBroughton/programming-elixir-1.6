@@ -10,6 +10,6 @@ result =
     "Group: #{gid}, User: #{uid}"
   end
 
-IO.puts(lp)
+IO.puts(result)
 IO.puts(content)
 # => Group: 26, User: 26
